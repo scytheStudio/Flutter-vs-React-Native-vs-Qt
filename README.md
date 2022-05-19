@@ -1,7 +1,7 @@
 ![Flutter vs React Native vs Qt comparison](./pictures/banner.png)
 # Flutter vs React Native vs Qt comparison
 
-We allocated some time to do a deep research on the best cross-platform applications development. The result of that was an article that you can find on [Scythe Studio blog](hhttps://scythe-studio.com/en/blog). We will not reveal any conslucions here so do not wait and visit our blog!
+We allocated some time to do a deep research on the best cross-platform applications development. The result of that was an article that you can find on [Scythe Studio blog](https://scythe-studio.com/en/blog). We will not reveal any conslucions here so do not wait and visit our blog!
 
 ---
 
