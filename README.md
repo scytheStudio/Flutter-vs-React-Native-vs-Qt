@@ -9,7 +9,7 @@ We allocated some time to do a deep research on the best cross-platform applicat
 
 ---
 
-![Qt TODO list](./pictures/qt-to-do-list.png)
+![Qt TODO list](./pictures/qt-to-do-list-app.png)
 
 Proper comparison should base on facts. Therefore, we implemented three identical TODO applications in order to give you a feel of every and each framework we compared.
 There are also apps used for performance profiling using accurate profiling software GameBench. The results are included in a blog post.
