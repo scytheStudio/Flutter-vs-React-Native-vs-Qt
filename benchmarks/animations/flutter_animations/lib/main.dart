@@ -47,12 +47,12 @@ class _MyHomePageState extends State<MyHomePage>
     return Scaffold(
       body: Center(
           child: GridView.count(
-        crossAxisCount: 3,
+        crossAxisCount: 10,
         children: [
-          for (int i = 0; i < 18; ++i)
+          for (int i = 0; i < 200; ++i)
             Transform.rotate(
                 angle: rotateAnimation.value,
-                child: Image.asset('assets/phoneAnimation.gif')),
+                child: Image.asset('assets/logo.png')),
         ],
       )),
     );

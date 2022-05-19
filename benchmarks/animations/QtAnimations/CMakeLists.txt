@@ -15,7 +15,7 @@ qt_add_qml_module(appQtAnimations
     URI QtAnimations
     VERSION 1.0
     QML_FILES main.qml
-    RESOURCES assets/phoneAnimation.gif
+    RESOURCES assets/logo.png
 )
 
 set_target_properties(appQtAnimations PROPERTIES

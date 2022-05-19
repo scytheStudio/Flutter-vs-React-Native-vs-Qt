@@ -7,21 +7,21 @@ Window {
   title: qsTr("Hello World")
 
   Grid {
-    columns: 3
+    columns: 10
 
     Repeater {
       id: repeater
 
-      readonly property real tileSize: root.width / 3
+      readonly property real tileSize: root.width / 10
 
-      model: 18
+      model: 200
 
-      AnimatedImage {
+      Image {
         id: animatedGif
         width: repeater.tileSize
         height: repeater.tileSize
 
-        source: "assets/phoneAnimation.gif"
+        source: "assets/logo.png"
 
         PropertyAnimation {
           target: animatedGif
