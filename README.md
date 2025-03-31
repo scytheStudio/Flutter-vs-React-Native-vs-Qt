@@ -5,7 +5,7 @@ We allocated some time to do a deep research on the best cross-platform applicat
 
 ---
 
-[![Scythe Studio](./pictures/Main-SS-cropped.jpg)](https://scythe-studio.com)
+[![Scythe Studio](./pictures/ss-logo.jpg)](https://scythe-studio.com)
 
 ---
 
